@@ -1,2 +1,2 @@
 # GymTemplate1
-Proyecto escolar (Edware Stive Perez Terraza)
+Proyecto escolar - (Edware Stive Perez Terraza)
